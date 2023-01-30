@@ -14,4 +14,4 @@ A CRM Web App for managing companies and employees.
 - run this command in terminal " php artisan migrate:refresh --seed "
 - run this command in terminal " php artisan serve "
 
-# The project is now up and running! Access it at http://127.0.0.1:8000
+### The project is now up and running! Access it at http://127.0.0.1:8000
