@@ -20,9 +20,3 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 });
 
-//
-//Route::get('/empReg','EmployeeController@index');
-//Route::get('/empReg/{id}','EmployeeController@show');
-//Route::post('/empReg','EmployeeController@store')->name('create_emp');
-//Route::post('/empReg/update/{id}','EmployeeController@update');
-//Route::delete('/empReg/{id}','EmployeeController@destroy');
