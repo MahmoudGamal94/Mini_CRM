@@ -43,16 +43,4 @@ Route::middleware([
 });
 
 
-//Route::get('/empReg','EmployeeController@index');
-//Route::get('/empReg/{id}','EmployeeController@show');
-//Route::post('/empReg','EmployeeController@store')->name('create_emp');
-//Route::post('/empReg/update/{id}','EmployeeController@update');
-//Route::delete('/empReg/{id}','EmployeeController@destroy');
 
-//Route::get('/emp_register', function () {
-//    return view('emp-register');
-//})->name('emp-register');
-//
-//Route::get('/success', function () {
-//    return view('success');
-//})->name('success');
